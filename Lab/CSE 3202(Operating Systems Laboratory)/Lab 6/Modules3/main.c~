@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<fcntl.h>
+#include<string.h>
+main()
+{
+char p[] = "Hello";
+printf("%d",sizeof(p));
+int fd,n;
+fd=open("/dev/simple",O_WRONLY);
+n=write(fd,p,sizeof(p));
+printf("%d",n);
+close(fd);
+}

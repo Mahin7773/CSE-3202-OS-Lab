@@ -1,0 +1,3 @@
+C:/Users/Administrator/CLionProjects/sjf_premp/cmake-build-debug/CMakeFiles/sjf_premp.dir
+C:/Users/Administrator/CLionProjects/sjf_premp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/CLionProjects/sjf_premp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
